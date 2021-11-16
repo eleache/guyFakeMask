@@ -9,3 +9,6 @@ principalmente sera compilado para amnesia, pero la meta es lograr la interopera
 - usa otros repositorios para dezplegar servicios adicionales indicando con el atributo correspondiente
 
 "el que tiene magia no ocupa truco" -eleAche
+
+#### only type 
+ > sudo bash getmeonemaskplease.sh
